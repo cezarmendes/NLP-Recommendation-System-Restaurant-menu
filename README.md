@@ -1,0 +1,3 @@
+# Recommendation System - Restaurant Menu
+
+This project presents an innovative approach to restaurant menu optimization through sentiment analysis of customer reviews. It utilizes ``advanced natural language processing (NLP)`` techniques, employing frameworks like ***NLTK, RoBERTa, SpaCy, and Word2Vec**, to analyze and interpret customer feedback from Yelp reviews. The goal is to identify popular dishes and potential areas for menu enhancement, aligning offerings with customer preferences. By integrating computational tools with culinary art, the study aims to offer actionable insights for menu creation, contributing to an enhanced dining experience and potential revenue growth
